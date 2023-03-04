@@ -1,0 +1,16 @@
+const array =[Indianfood,Mexicanfood]
+'{class typefood}'
+//
+Indianfood(taste,smell)
+this.taste=taste;
+this.smell=smell;
+//
+Mexicanfood(spicy,delicious )
+this.taste=taste;
+this.delicious=delicious 
+//
+var option = document.createElement(option);
+//
+var option=document.viewElement(option);
+//
+var option=document.deleteElement(option);
